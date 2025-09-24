@@ -79,7 +79,6 @@ section {
     background: url('home.jpg') no-repeat;
     background-size: cover;
     background-position: center;
-    min-height: 100vh;
 }
 
 .home-content {
@@ -213,6 +212,7 @@ section {
 .home-sci a:hover:before {
     width: 100%;
 }
+
 
 
 
