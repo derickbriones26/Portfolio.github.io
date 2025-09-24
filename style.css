@@ -76,7 +76,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('https://github.com/derickbriones26/Portfolio.github.io/blob/main/about.jpg') no-repeat;
+    background: url('images/home.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -212,4 +212,5 @@ section {
 .home-sci a:hover:before {
     width: 100%;
 }
+
 
